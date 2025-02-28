@@ -1,16 +1,15 @@
 ---
-title: "Blog Post 1"
-author: ""
-date: "2025-02-28"
-date-modified: "2025-02-28"
-draft: FALSE
+title:"Blog Post 1"
+author:""
+date:"2025-02-28"
+date - modified:"2025-02-28"
+draft:FALSE
 ---
 
 # Dataset 1
 
+This is the first data set.
+
 # Dataset 2
 
 # Dataset 3
-
-
-
